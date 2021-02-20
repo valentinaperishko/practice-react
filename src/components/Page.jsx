@@ -1,6 +1,5 @@
 import React from "react";
 import MyButton from "./MyButton";
-import MyInput from "./MyInput";
 import MyForm from "./MyForm";
 
 const Page = ({ title, date }) => {
